@@ -1,6 +1,6 @@
 {
-  "name": "mapasculturais-app",
-  "app_id": "d5ff46e2",
+  "name": "AgendaCE",
+  "app_id": "0927a3c5",
   "watch": {
     "sass": [
       "scss/**/*.scss"
