@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.com.hacklab.mapasculturais" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="br.gov.ce.cultura.agenda" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Mapas Culturais</name>
     <description>
-        Aplicativo da Plataforma Mapas Culturais.
+        Agenda.CE - Agenda Cultura do Ceará
     </description>
-    <author email="contato@hacklab.com.br" href="http://hacklab.com.br/">
-      hacklab/
+    <author email="agendace@culturalivre.org" href="http://mutirao.org.br/">
+      Instituto Mutirão
     </author>
     <content src="index.html" />
     <preference name="webviewbounce" value="false" />
