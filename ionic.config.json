@@ -1,6 +1,6 @@
 {
   "name": "AgendaCE",
-  "app_id": "0927a3c5",
+  "app_id": "3149039b",
   "watch": {
     "sass": [
       "scss/**/*.scss"
